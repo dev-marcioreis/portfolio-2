@@ -1,4 +1,4 @@
-# Portfolio 2
+# Portfolio 2 (HTML, CSS, JavaScript)
 Este é meu segundo portfólio, foi desenvolvido em HTML, CSS e JavaScript.<br>
 O portfólio definitivo será em ReactJS.<br>
 Link de acesso: https://dev-marcioreis.github.io/portfolio-2/
